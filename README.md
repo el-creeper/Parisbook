@@ -1,6 +1,6 @@
 # Parisbook 
 
-Un site permettant de rechercher la disponibilité de livre sur Paris.
+Ceci est un vieux projet (2020), ce site permetait de rechercher la disponibilité de livre sur Paris.
 
 ## Compte rendu du projet de fin d’année de 1e NSI
 
